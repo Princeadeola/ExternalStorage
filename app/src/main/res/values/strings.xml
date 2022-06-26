@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ExternalStorage</string>
+    <string name="output_text">Output from MainActivity</string>
+</resources>
